@@ -39,11 +39,12 @@ This project helps users organize tasks, mark them as complete, and manage daily
 
 ---
 
-## 🔗 Live Demo
-[View Project Here](your-demo-link)
+## 🚀 Live Demo
+Try it here: https://nagarjuna281.github.io/to-do-list/
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your app here once deployed)
+## 📸 Screenshot
+<img width="1341" height="632" alt="Screenshot" src="https://github.com/user-attachments/assets/3e523aa3-2080-4246-8f45-24332447cb39" />
+
 
